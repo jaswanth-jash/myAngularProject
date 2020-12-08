@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
      nikitha,
      pavithra,
      rakshith`,
-     
+
   styleUrls: ['./demo.component.css']
 })
 export class DemoComponent implements OnInit {
